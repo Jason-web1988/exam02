@@ -1,0 +1,19 @@
+@charset "UTF-8";
+h1, h2, h3, footer{
+	text-align : center;
+	
+}
+p{
+	margin-left : 260px;
+}
+
+table {
+	text-align : center;
+	margin : 0 auto;
+	width : 70%;
+}
+
+div.btn_group{
+	text-align:right;
+	margin-right: 260px;
+}
